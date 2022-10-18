@@ -32,8 +32,7 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 
 # Star Schema Design
 Star schema I constructed based on the business questions:
-
-![image](https://user-images.githubusercontent.com/61830624/196258984-aef0fe34-44bf-4024-8f1f-c502105ddfeb.png)
+![image](https://user-images.githubusercontent.com/61830624/196340387-ce3e0481-cd7b-4764-9682-59e12071c7bf.png)
 
 # Extract Step
 ### Step 1 Create Azure Databricks workspace
